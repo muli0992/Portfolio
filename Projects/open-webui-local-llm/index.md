@@ -48,7 +48,7 @@ Through `https://muzdata.top`, I can:
 ---
 
 ### 📌 Live Demo
-- [muzdata.top](https://muzdata.top) *(may be inactive when self-hosted server is down)*
+- [muzdata.top](https://www.muzdata.top) *(may be inactive when self-hosted server is down)*
 - GitHub repo: [github.com/muli0992/muzhaoli.github.io](https://github.com/muli0992/muzhaoli.github.io)
 
 ---
