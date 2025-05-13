@@ -36,7 +36,8 @@ Through `https://www.muzdata.top`, I can:
 - Switch between local and GPT-4o models
 - Access the WebUI remotely from any device
 - Share limited access with friends
-
+---
+###[Offloading models](./ollama_symlink_setup.md)
 ---
 
 ### 🧠 Key Learnings
