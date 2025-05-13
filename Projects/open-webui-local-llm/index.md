@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Local AI Platform with Open WebUI + Cloudflare Tunnel"
+permalink: /Projects/open-webui-local-llm/
+---
+
 ## 🚀 Local AI Platform with Open WebUI + Cloudflare Tunnel
 
 This project documents how I deployed a local AI assistant on my Mac using **Open WebUI**, connected to **local large language models (LLMs)** served by **Ollama**, and enabled secure public access using **Cloudflare Tunnel** with a custom domain.
