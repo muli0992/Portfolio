@@ -1,5 +1,5 @@
 title: Muzhao Li
-logo: ./Projects/assets/2寸照片.jpg
+logo: /Projects/assets/2寸照片.jpg
 #description:
 theme: jekyll-theme-minimal
-image: /assets/thumbnail.png
+image: /Projects/assets/thumbnail.png
