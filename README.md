@@ -43,7 +43,7 @@ Relevant Courses:
 
 ## 📊 Featured Project
 
-### Airbnb Price Prediction (Kaggle Competition – Top 8/140)
+### 🏡 [Airbnb Price Prediction](./Projects/airbnb-price-prediction/) (Kaggle Competition – Top 8/140)
 - Developed a deep learning model (92% accuracy) using Python + XGBoost.
 - Led data cleaning, EDA, and feature engineering in a team setting.
 - Identified key price drivers: location, amenities, seasonal factors.
