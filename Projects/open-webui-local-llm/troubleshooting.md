@@ -20,6 +20,11 @@ This document outlines real technical problems I encountered during the deployme
   pip install open-webui
   open-webui serve
   ```
+  Note: I suggest using conda to create a separate environment for open webUI
+- Then you can directly activate the open webUI:
+  ```bash
+  open-webui serve
+  ```
 
 ---
 
