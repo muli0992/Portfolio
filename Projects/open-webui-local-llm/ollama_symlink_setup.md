@@ -6,7 +6,7 @@ To conserve internal disk space on my Mac mini, I redirected Ollama's model stor
 
 ## Hardware:
 Machine: Mac Mini 24G+256G
-m.2 SSD: ZhiTai TiPlus7100 2TB
+m.2 SSD: ZhiTai TiPlus7100 2TB  
 SSD Enclosure: ITGZ USB4 enclosure
 
 ## 📁 Target Path
