@@ -54,8 +54,6 @@ A dedicated page documents the technical issues I encountered during deployment 
 
 ---
 
----
-
 ### 🧠 Key Learnings
 - Tunnel configuration and DNS routing
 - Linux/macOS permissions and symbolic links
