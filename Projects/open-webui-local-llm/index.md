@@ -46,6 +46,16 @@ Link [here](./ollama_symlink_setup.md)
 
 ---
 
+### 🛠 Troubleshooting & Debug Log
+
+A dedicated page documents the technical issues I encountered during deployment and how I resolved them. It includes errors related to model visibility, remote access, symbolic link misbehavior, and user permissions.
+
+📄 [Read full troubleshooting notes](./troubleshooting.md)
+
+---
+
+---
+
 ### 🧠 Key Learnings
 - Tunnel configuration and DNS routing
 - Linux/macOS permissions and symbolic links
