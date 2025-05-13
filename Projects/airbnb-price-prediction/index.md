@@ -1,3 +1,9 @@
+---
+layout: page
+title: "🏡 Airbnb Price Prediction"
+permalink: /Projects/airbnb-price-prediction/
+---
+
 # 🏡 Airbnb Price Prediction (East Coast Australia)
 
 This repository showcases a predictive modeling project on Airbnb listing prices across Australia's East Coast. The goal was to identify key drivers of listing prices and compare various machine learning models to achieve optimal predictive performance.
