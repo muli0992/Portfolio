@@ -62,4 +62,4 @@ This project was developed collaboratively by a team of five:
 - Airbnb growth data: Khandelwal, R. (2023). *The State of Short-Term Rentals in Australia*.  
 - [Scikit-learn documentation](https://scikit-learn.org/)
 - [XGBoost documentation](https://xgboost.readthedocs.io/)
-- Additional references and citations are available in the full [`report.pdf`](./report.pdf)
+- Additional references and citations are available in the full [`report.pdf`](./Airbnb_report.pdf)
