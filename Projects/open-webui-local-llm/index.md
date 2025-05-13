@@ -25,14 +25,14 @@ It highlights my ability to integrate tools across backend, networking, storage,
 
 - Installed Open WebUI using `pip` for better control than Docker.
 - Used Ollama for running local models, and moved model data to external SSD.
-- Created a persistent `cloudflared` tunnel and routed it to `muzdata.top`.
+- Created a persistent `cloudflared` tunnel and routed it to `www.muzdata.top`.
 - Configured DNS through Cloudflare to link my domain with the running tunnel.
 - Enabled Web Search via Google CSE + API, and added OpenAI GPT API for internet access fallback.
 
 ---
 
 ### 🌐 Remote Access Enabled
-Through `https://muzdata.top`, I can:
+Through `https://www.muzdata.top`, I can:
 - Switch between local and GPT-4o models
 - Access the WebUI remotely from any device
 - Share limited access with friends
