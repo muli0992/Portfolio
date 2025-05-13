@@ -38,9 +38,11 @@ Through `https://www.muzdata.top`, I can:
 - Share limited access with friends
 ---
 
-###[Offloading models](./ollama_symlink_setup.md)
+### Offloading models
 
 -Workflow on how to move models to the external storage.
+
+Link [here](./ollama_symlink_setup.md)
 
 ---
 
