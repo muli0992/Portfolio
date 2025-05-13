@@ -48,6 +48,20 @@ Relevant Courses:
 - Led data cleaning, EDA, and feature engineering in a team setting.
 - Identified key price drivers: location, amenities, seasonal factors.
 
+### 🧠 [Deploying Open WebUI + Local LLM with Remote Access](./Projects/open-webui-local-llm/)
+
+This hands-on system setup demonstrates how I deployed Open WebUI on macOS to host local large language models (like LLaMA 3 and Qwen) using Ollama. To enable secure public access, I configured Cloudflare Tunnel and connected it with a custom domain (`muzdata.top`). The project also includes OpenAI API fallback integration and external disk management for large model storage. It showcases my full-stack execution across Python environment management, system networking, remote tunneling, API integration, and prompt-driven AI usage.
+
+> 📘 Self-initiated technical project (May 2025)
+
+**Key Highlights:**
+- Installed Open WebUI via `pip` and connected it to Ollama
+- Created a persistent Cloudflare Tunnel to expose localhost over HTTPS
+- Linked `muzdata.top` domain via DNS + custom `config.yml` tunnel routing
+- Integrated GPT-4o API and Google Programmable Search for external model/web access
+- Enabled multiple user logins, symbolic storage relocation, and model switching
+
+🔗 [Live URL (when online)](https://muzdata.top) 
 
 ---
 
