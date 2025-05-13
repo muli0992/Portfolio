@@ -39,11 +39,11 @@ This document outlines real technical problems I encountered during the deployme
 - Tunnel routing config was missing `ingress` or had wrong service target
 
 **Fix:**  
-- Created `CNAME` DNS records for `muzdata.top` and `www.muzdata.top`  
+- Created `CNAME` DNS records for `www.muzdata.top`  
 - Wrote `config.yml` with:
   ```yaml
   ingress:
-    - hostname: muzdata.top
+    - hostname: www.muzdata.top
       service: http://localhost:8080
     - service: http_status:404
   ```
