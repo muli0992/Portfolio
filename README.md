@@ -48,7 +48,6 @@ Relevant Courses:
 - Led data cleaning, EDA, and feature engineering in a team setting.
 - Identified key price drivers: location, amenities, seasonal factors.
 
-📁 Check it out in: 
 
 ---
 
