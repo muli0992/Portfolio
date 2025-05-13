@@ -61,7 +61,7 @@ This hands-on system setup demonstrates how I deployed Open WebUI on macOS to ho
 - Integrated GPT-4o API and Google Programmable Search for external model/web access
 - Enabled multiple user logins, symbolic storage relocation, and model switching
 
-🔗 [Live URL (when online)](https://muzdata.top) 
+🔗 [Live URL (when online)](https://www.muzdata.top) 
 
 ---
 
