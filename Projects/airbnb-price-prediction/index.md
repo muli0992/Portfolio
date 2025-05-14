@@ -26,13 +26,11 @@ With a 25% year-over-year surge in Airbnb listings (2022–2023), optimizing nig
 - Ordinal encoding for review ratings and category simplification
 
 ### 🤖 Models Applied
-markdown('''
-| Model         | Train RMSE | Validation RMSE |
-|---------------|------------|-----------------|
-| ElasticNet    | 144.92     | 145.19          |
-| Decision Tree | 137.63     | 142.96          |
-| XGBoost       | **52.16**  | **123.61**      |
-''')
+
+- **ElasticNet**: 144.92 (Train), 145.19 (Validation)
+- **Decision Tree**: 137.63 (Train), 142.96 (Validation)
+- **XGBoost**: **52.16** (Train), **123.61** (Validation)
+
 
 **🏆 Final Model**: `XGBoost`  
 **🎯 Top Predictors**: `bedrooms`, `neighborhood_quality`, `CBD_distance`, and `text_keywords`
