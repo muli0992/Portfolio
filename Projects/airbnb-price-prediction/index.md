@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "🏡 Airbnb Price Prediction"
 permalink: /Projects/airbnb-price-prediction/
 ---
