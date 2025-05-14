@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muzhao Li
+# Hi, I'm Muzhao Li
 
 Welcome to my portfolio! I'm a data-driven professional with a strong foundation in **data analytics, statistical modeling**, and **business intelligence**. With hands-on experience from industry internships and a solid academic background, I’m passionate about transforming data into actionable insights to support strategic decision-making.
 
