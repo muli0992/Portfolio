@@ -1,8 +1,3 @@
----
-layout: default
-title: "🏡 Airbnb Price Prediction"
-permalink: /Projects/airbnb-price-prediction/
----
 
 # 🏡 Airbnb Price Prediction (East Coast Australia)
 
