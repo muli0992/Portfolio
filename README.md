@@ -44,9 +44,16 @@ Relevant Courses:
 ## 📊 Featured Project
 
 ### 🏡 [Airbnb Price Prediction](./Projects/airbnb-price-prediction/) (Kaggle Competition – Top 8/140)
+
 - Developed a deep learning model (92% accuracy) using Python + XGBoost.
 - Led data cleaning, EDA, and feature engineering in a team setting.
 - Identified key price drivers: location, amenities, seasonal factors.
+
+### 🏬 [Big W Sales Forecasting](./Projects/bigw-sales-prediction/) (Business Capstone – Group Project)
+
+- Built and evaluated ElasticNet, Random Forest, and XGBoost models on 1.8M+ retail records.
+- Focused on EDA pipeline and modeling implementation (feature tuning, validation strategy).
+- Engineered key variables: promotion intensity, competition level, and seasonality effects.
 
 ### 🧠 [Deploying Open WebUI + Local LLM with Remote Access](./Projects/open-webui-local-llm/)
 
