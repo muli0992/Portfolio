@@ -26,7 +26,7 @@ To help Big W optimize its pricing and promotional strategies through:
 ## 📂 Project Files
 
 - [`QBUS6600_Group 74_ Version 1.pdf`](./Big_W_report.pdf) — Full project report with methodology, visualizations, and recommendations  
-- [`Data Wrangling_final.ipynb`](./Data%20Wrangling_final.ipynb) — Jupyter notebook with data preprocessing, feature engineering, and model implementation
+- [`Data Wrangling_final.ipynb`](./Data_Wrangling_final.ipynb) — Jupyter notebook with data preprocessing, feature engineering, and model implementation
 
 ---
 
