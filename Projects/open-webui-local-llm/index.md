@@ -1,8 +1,3 @@
----
-layout: page
-title: "Local AI Platform with Open WebUI + Cloudflare Tunnel"
-permalink: /Projects/open-webui-local-llm/
----
 
 ## 🚀 Local AI Platform with Open WebUI + Cloudflare Tunnel
 
