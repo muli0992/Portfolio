@@ -20,6 +20,13 @@ Relevant Courses:
 
 ## 💼 Work Experience
 
+###Sales Support Analyst @ TP-Link Australia | Aug 2025 – Present
+- Provide analytical and reporting support for sales performance monitoring, retailer analysis, customer claims, and rebate processing.
+- Respond to ad hoc reporting and data-analysis requests from Sales, Finance, and other internal stakeholders, delivering timely and accurate business information.
+- Maintain customer, retailer, and sales-related CRM data, applying validation and reconciliation procedures to improve data accuracy, consistency, and completeness.
+- Review and validate trade claims, promotional claims, and rebate-related data in line with internal policies and required timelines.
+- Support business decision-making by identifying data variances, maintaining data quality, and translating structured sales and retailer data into actionable insights.
+
 ### Business Analyst Intern @ Salesforce (Tableau Team) | May 2024 – Aug 2024
 - Analyzed business metrics for 50+ clients using SQL and Python.
 - Built Tableau dashboards that integrated Python/SQL insights for strategic decisions.
