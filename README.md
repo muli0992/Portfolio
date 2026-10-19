@@ -20,7 +20,7 @@ Relevant Courses:
 
 ## 💼 Work Experience
 
-###Sales Support Analyst @ TP-Link Australia | Aug 2025 – Present
+### Sales Support Analyst @ TP-Link Australia | Aug 2025 – Present
 - Provide analytical and reporting support for sales performance monitoring, retailer analysis, customer claims, and rebate processing.
 - Respond to ad hoc reporting and data-analysis requests from Sales, Finance, and other internal stakeholders, delivering timely and accurate business information.
 - Maintain customer, retailer, and sales-related CRM data, applying validation and reconciliation procedures to improve data accuracy, consistency, and completeness.
